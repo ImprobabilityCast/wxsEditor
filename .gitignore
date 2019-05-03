@@ -1,0 +1,5 @@
+bin
+obj
+wx_pch.h.gch
+wxsEditor.depend
+*.cbp
