@@ -1,9 +1,9 @@
 /***************************************************************
  * Name:      wxsEditorMain.h
  * Purpose:   Defines Application Frame
- * Author:    Isaac Smith ()
+ * Author:    ImprobabilityCast
  * Created:   2016-11-20
- * Copyright: Isaac Smith ()
+ * Copyright: ImprobabilityCast
  * License:
  **************************************************************/
 
