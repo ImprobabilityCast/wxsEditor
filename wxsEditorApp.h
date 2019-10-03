@@ -1,9 +1,9 @@
 /***************************************************************
  * Name:      wxsEditorApp.h
  * Purpose:   Defines Application Class
- * Author:    Isaac Smith ()
+ * Author:    ImprobabilityCast
  * Created:   2016-11-20
- * Copyright: Isaac Smith ()
+ * Copyright: ImprobabilityCast
  * License:
  **************************************************************/
 
